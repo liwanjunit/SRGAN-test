@@ -1,8 +1,5 @@
-training_results
-epochs
-images
+
+*.pth
+
 data
-benchmark_results
 __pycache__
-pytorch_ssim
-statistics
